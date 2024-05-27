@@ -38,6 +38,9 @@ Checkout the [discord](https://discord.com/invite/9pWaQkS9qb)
 ---
 | Name              | Location     | Roles                | Employment | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | --------------------------- | 
+| [U.S. Department of the Treasury](https://www.adzuna.com/details/4708520933) | Washington, DC | ✅ [Quantitative Analyst](https://www.adzuna.com/details/4708520933) | New Grad | 05/27/2024 |
+| [RightWorks](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1716716089) | New York, NY | ✅ [Quantitative Equity Research Analyst](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1716716089) | New Grad | 05/26/2024 |
+| [Susquehanna International Group, LLP (SIG)](https://careers.sig.com/job/SUSQA004Y4454) | New York, NY | ✅ [Quantitative Sports Researcher](https://careers.sig.com/job/SUSQA004Y4454) | New Grad | 05/23/2024 |
 | [Susquehanna International Group, LLP (SIG)](https://careers.sig.com/job/SUSQA004Y7676?mode=apply) | New York, NY | ✅ [Quantitative Systematic Trader – Masters: Summer 2024](https://careers.sig.com/job/SUSQA004Y7676?mode=apply) | Intern | 05/23/2024 |
 | [SaltHill Group ](https://www.linkedin.com/jobs/search/?currentJobId=3933944216) | Greater Houston | ✅ [Quantitative Power Trading Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3933944216) | New Grad | 05/23/2024 |
 | [Franklin Templeton](https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/New-York-New-York-United-States-of-America/Quantitative-Research-Analyst--C---Python-_851913-1?src=JB-10760) | New York, NY | ✅ [Quantitative Research Analyst (C#, Python)](https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/New-York-New-York-United-States-of-America/Quantitative-Research-Analyst--C---Python-_851913-1?src=JB-10760) | New Grad | 05/23/2024 |
