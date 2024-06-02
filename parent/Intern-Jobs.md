@@ -22,6 +22,7 @@ This is a collection of internship for students looking to get into Quant (Trade
 ---
 | Name              | Location     | Roles                | Employment   | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | --------------------------- | 
+| [Brandywine Global Investment Management](https://franklintempleton.wd5.myworkdayjobs.com/Jobs-Brandywine/job/Philadelphia-Pennsylvania-United-States-of-America/Quantitative-Research-Analyst-Intern_857853) | Philadelphia, PA | ✅ [Quantitative Research Analyst Intern](https://franklintempleton.wd5.myworkdayjobs.com/Jobs-Brandywine/job/Philadelphia-Pennsylvania-United-States-of-America/Quantitative-Research-Analyst-Intern_857853) | Intern | 05/31/2024 |
 | [Susquehanna International Group, LLP (SIG)](https://careers.sig.com/job/SUSQA004Y7676?mode=apply) | New York, NY | ✅ [Quantitative Systematic Trader – Masters: Summer 2024](https://careers.sig.com/job/SUSQA004Y7676?mode=apply) | Intern | 05/23/2024 |
 | [328 Capital Partners](https://www.linkedin.com/jobs/search/?currentJobId=3917150420) | US (Remote) | ✅ [Quantitative Trading Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3917150420) | Intern | 05/04/2024 |
 | [VWH Capital Management, LP](https://www.linkedin.com/jobs/search/?currentJobId=3911242284) | Dallas, TX | ✅ [Quantitative Researcher Intern](https://www.linkedin.com/jobs/search/?currentJobId=3911242284) | Intern | 04/27/2024 |
