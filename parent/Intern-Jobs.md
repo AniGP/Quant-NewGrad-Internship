@@ -27,8 +27,8 @@ This is a collection of internship for students looking to get into Quant (Trade
 | [328 Capital Partners](https://www.linkedin.com/jobs/search/?currentJobId=3917150420) | US (Remote) | ✅ [Quantitative Trading Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3917150420) | Intern | 05/04/2024 |
 | [VWH Capital Management, LP](https://www.linkedin.com/jobs/search/?currentJobId=3911242284) | Dallas, TX | ✅ [Quantitative Researcher Intern](https://www.linkedin.com/jobs/search/?currentJobId=3911242284) | Intern | 04/27/2024 |
 | [QuantLab](https://www.quantlab.com/careers?p=job/oxilofwi/apply&__jvst=Job+Board&__jvsd=LinkedInLimited&nl=1) | Houston, TX | ✅ [Summer Quant Intern](https://www.quantlab.com/careers?p=job/oxilofwi/apply&__jvst=Job+Board&__jvsd=LinkedInLimited&nl=1) | Intern | 04/24/2024 |
-| [Jobot](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Houston, TX | ✅ [Quantitative Developer](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Intern | 04/24/2024 |
-| [Eventual](https://www.linkedin.com/jobs/search/?currentJobId=3903250772) | New York, NY | ✅ [Quant Intern](https://www.linkedin.com/jobs/search/?currentJobId=3903250772) | Intern | 04/22/2024 |
+| [Jobot](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Houston, TX | 🔒 [Quantitative Developer](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Intern | 04/24/2024 |
+| [Eventual](https://www.linkedin.com/jobs/search/?currentJobId=3903250772) | New York, NY | 🔒 [Quant Intern](https://www.linkedin.com/jobs/search/?currentJobId=3903250772) | Intern | 04/22/2024 |
 ---
 
 [⬆️ Back to Top](#jobs)
