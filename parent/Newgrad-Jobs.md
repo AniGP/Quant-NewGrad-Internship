@@ -22,6 +22,10 @@ This is a collection of full-time job openings for new grads looking to get into
 ---
 | Name              | Location     | Roles                | Employment   | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | --------------------------- | 
+| [maven](https://www.linkedin.com/jobs/search/?currentJobId=3943836050) | Miami, FL | ✅ [Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3943836050) | New Grad | 06/07/2024 |
+| [Token Metrics](https://jobs.lever.co/tokenmetrics/96950a7c-e8ce-4829-86d1-f7c526a84898) | Beaverton, OR | ✅ [Crypto Quantitative Analyst](https://jobs.lever.co/tokenmetrics/96950a7c-e8ce-4829-86d1-f7c526a84898) | New Grad | 06/07/2024 |
+| [Akuna Capital](https://akunacapital.com/job-details?gh_jid=5967862&gh_src=dce59d2c1us) | Chicago, IL | ✅ [Quantitative Researcher - D1](https://akunacapital.com/job-details?gh_jid=5967862&gh_src=dce59d2c1us) | New Grad | 06/07/2024 |
+| [Goldman Sachs](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring1/job/123208) | Dallas, TX | ✅ [Quantitative Engineering](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring1/job/123208) | New Grad | 06/07/2024 |
 | [Thurn Partners](https://www.linkedin.com/jobs/search/?currentJobId=3941685730) | Houston, TX | ✅ [Quantitative Power Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3941685730) | New Grad | 06/04/2024 |
 | [Tardis Tech](https://www.linkedin.com/jobs/search/?currentJobId=3942068901) | Greater Chicago Area | ✅ [Quantitative Analyst/Developer](https://www.linkedin.com/jobs/search/?currentJobId=3942068901) | New Grad | 06/04/2024 |
 | [Albert Bow](https://www.linkedin.com/jobs/search/?currentJobId=3934198610) | Chicago, IL | ✅ [Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3934198610) | New Grad | 06/04/2024 |
