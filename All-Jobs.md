@@ -31,13 +31,16 @@ Checkout the [discord](https://discord.com/invite/9pWaQkS9qb)
 
 | Specific Jobs| Emoji Meanings|
 |---------------|----------------|
-|1. [Internships](../parent/Newgrad-Jobs.md)</br>2. [New Grad Jobs](../parent/Intern-Jobs.md)|✅: Available / Open</br> 🔒: No Longer Available / Closed.</br> 📈: Quant (Trader/Researcher/Developer)</br>|
+|1. [New Grad Jobs](../parent/Newgrad-Jobs.md)</br>2. [Internships](../parent/Intern-Jobs.md)|✅: Available / Open</br> 🔒: No Longer Available / Closed.</br>|
 
 
 ## Jobs
 ---
 | Name              | Location     | Roles                | Employment | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | --------------------------- | 
+| [Jobot](https://www.dice.com/job-detail/bd7a3021-1d19-4172-958f-0cfaaa724554) | Chicago IL | ✅ [Quantitative Developer](https://www.dice.com/job-detail/bd7a3021-1d19-4172-958f-0cfaaa724554) | New Grad | 06/09/2024 |
+| [Oxford Knight](https://www.efinancialcareers.com/jobs-USA-NY-New_York-Quant_Developer_PythonC_-_Research_Engineering-_Global_Hedge_Fund.id20613556) | New York, NY | ✅ [Quant Developer](https://www.efinancialcareers.com/jobs-USA-NY-New_York-Quant_Developer_PythonC_-_Research_Engineering-_Global_Hedge_Fund.id20613556) | New Grad | 06/09/2024 |
+| [MRINetwork](http://affinity-north.jobs.mrinetwork.com/KFsCrs/quantitative-strategistdeveloper-nyc-hedge-fund-jj-accounting-finance-insurance?directToApply=true) | New York, NY | ✅ [Quantitative Strategist/Developer](http://affinity-north.jobs.mrinetwork.com/KFsCrs/quantitative-strategistdeveloper-nyc-hedge-fund-jj-accounting-finance-insurance?directToApply=true) | New Grad | 06/09/2024 |
 | [maven](https://www.linkedin.com/jobs/search/?currentJobId=3943836050) | Miami, FL | ✅ [Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3943836050) | New Grad | 06/07/2024 |
 | [Token Metrics](https://jobs.lever.co/tokenmetrics/96950a7c-e8ce-4829-86d1-f7c526a84898) | Beaverton, OR | ✅ [Crypto Quantitative Analyst](https://jobs.lever.co/tokenmetrics/96950a7c-e8ce-4829-86d1-f7c526a84898) | New Grad | 06/07/2024 |
 | [Akuna Capital](https://akunacapital.com/job-details?gh_jid=5967862&gh_src=dce59d2c1us) | Chicago, IL | ✅ [Quantitative Researcher - D1](https://akunacapital.com/job-details?gh_jid=5967862&gh_src=dce59d2c1us) | New Grad | 06/07/2024 |
