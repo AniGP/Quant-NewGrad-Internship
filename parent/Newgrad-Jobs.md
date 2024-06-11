@@ -22,6 +22,10 @@ This is a collection of full-time job openings for new grads looking to get into
 ---
 | Name              | Location     | Roles                | Employment   | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | --------------------------- | 
+| [Motion Recruitment](https://www.linkedin.com/jobs/search/?currentJobId=3947900429&f_TPR=r86400) | Dallas-Fort Worth | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3947900429&f_TPR=r86400) | New Grad | 06/11/2024 |
+| [Cboe Global Markets](https://careers.cboe.com/us/en/job/CBJCGMUSR3571EXTERNALENUS/Quantitative-Analyst) | New York, NY | ✅ [Quantitative Analyst](https://careers.cboe.com/us/en/job/CBJCGMUSR3571EXTERNALENUS/Quantitative-Analyst) | New Grad | 06/11/2024 |
+| [Coda Search](https://www.linkedin.com/jobs/search/?currentJobId=3947148168) | New York, NY | ✅ [Quant Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3947148168) | New Grad | 06/10/2024 |
+| [Stabile Search](https://www.linkedin.com/jobs/search/?currentJobId=3943047832) | New York | ✅ [Quant Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3943047832) | New Grad | 06/10/2024 |
 | [Jobot](https://www.dice.com/job-detail/bd7a3021-1d19-4172-958f-0cfaaa724554) | Chicago IL | ✅ [Quantitative Developer](https://www.dice.com/job-detail/bd7a3021-1d19-4172-958f-0cfaaa724554) | New Grad | 06/09/2024 |
 | [Oxford Knight](https://www.efinancialcareers.com/jobs-USA-NY-New_York-Quant_Developer_PythonC_-_Research_Engineering-_Global_Hedge_Fund.id20613556) | New York, NY | ✅ [Quant Developer](https://www.efinancialcareers.com/jobs-USA-NY-New_York-Quant_Developer_PythonC_-_Research_Engineering-_Global_Hedge_Fund.id20613556) | New Grad | 06/09/2024 |
 | [MRINetwork](http://affinity-north.jobs.mrinetwork.com/KFsCrs/quantitative-strategistdeveloper-nyc-hedge-fund-jj-accounting-finance-insurance?directToApply=true) | New York, NY | ✅ [Quantitative Strategist/Developer](http://affinity-north.jobs.mrinetwork.com/KFsCrs/quantitative-strategistdeveloper-nyc-hedge-fund-jj-accounting-finance-insurance?directToApply=true) | New Grad | 06/09/2024 |
