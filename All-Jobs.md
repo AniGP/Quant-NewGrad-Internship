@@ -38,6 +38,12 @@ Checkout the [discord](https://discord.com/invite/9pWaQkS9qb)
 ---
 | Name              | Location     | Roles                | Employment | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | --------------------------- | 
+| [PNM capital](https://www.linkedin.com/jobs/search/?currentJobId=3768707400) | US (Remote) | ✅ [Quantitative Traders](https://www.linkedin.com/jobs/search/?currentJobId=3768707400) | New Grad | 06/14/2024 |
+| [Injective Labs](https://jobs.lever.co/injectivelabs/de1ead03-e4cf-4ccd-bdb5-930a0d256be5/) | US (Remote) | ✅ [Quantitative Research Intern](https://jobs.lever.co/injectivelabs/de1ead03-e4cf-4ccd-bdb5-930a0d256be5/) | Internship | 06/14/2024 |
+| [Susquehanna International Group, LLP (SIG)](https://careers.sig.com/job/SUSQA004Y8451) | Greater Philadelphia | ✅ [Quantitative Researcher – Masters: 2025](https://careers.sig.com/job/SUSQA004Y8451) | New Grad | 06/14/2024 |
+| [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Analyst--Quantitative-Power-Analyst_R708) | Stamford, CT | ✅ [Quantitative Power Analyst](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Analyst--Quantitative-Power-Analyst_R708) | New Grad | 06/14/2024 |
+| [U.S. Department of the Treasury](https://www.adzuna.com/details/4734998577?v=A8A9E39ABB0AF58EC25F8305C1C744BA30477A35&frd=b43a3a1452c8862200a69abc17df211) | Washington, DC | ✅ [Quantitative Analyst](https://www.adzuna.com/details/4734998577?v=A8A9E39ABB0AF58EC25F8305C1C744BA30477A35&frd=b43a3a1452c8862200a69abc17df211) | New Grad | 06/13/2024 |
+| [Susquehanna International Group, LLP (SIG)](https://careers.sig.com/job/SUSQA004Y8124) | Greater Philadelphia | ✅ [Quantitative Researcher](https://careers.sig.com/job/SUSQA004Y8124) | New Grad | 06/13/2024 |
 | [Motion Recruitment](https://www.linkedin.com/jobs/search/?currentJobId=3947900429&f_TPR=r86400) | Dallas-Fort Worth | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3947900429&f_TPR=r86400) | New Grad | 06/11/2024 |
 | [Cboe Global Markets](https://careers.cboe.com/us/en/job/CBJCGMUSR3571EXTERNALENUS/Quantitative-Analyst) | New York, NY | ✅ [Quantitative Analyst](https://careers.cboe.com/us/en/job/CBJCGMUSR3571EXTERNALENUS/Quantitative-Analyst) | New Grad | 06/11/2024 |
 | [Coda Search](https://www.linkedin.com/jobs/search/?currentJobId=3947148168) | New York, NY | ✅ [Quant Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3947148168) | New Grad | 06/10/2024 |
