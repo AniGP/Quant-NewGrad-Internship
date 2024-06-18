@@ -38,6 +38,13 @@ Checkout the [discord](https://discord.com/invite/9pWaQkS9qb)
 ---
 | Name              | Location     | Roles                | Employment | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | --------------------------- | 
+| [East West Bank](https://www.linkedin.com/jobs/search/?currentJobId=3907451573) | Pasadena, CA  | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3907451573) | New Grad | 06/18/2024 |
+| [The Hagan-Ricci Group (HRG)](https://www.get.it/job/quantitative-researcher-in-north-castle-ny-at-the-hagan-ricci-group-518722490411779404) | Armonk, NY | ✅ [Quantitative Researcher](https://www.get.it/job/quantitative-researcher-in-north-castle-ny-at-the-hagan-ricci-group-518722490411779404) | New Grad | 06/18/2024 |
+| [GradBay](https://www.linkedin.com/jobs/search/?currentJobId=3953230468) | Boston, MA | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3953230468) | New Grad | 06/18/2024 |
+| [NJF Global Holdings Ltd](https://www.linkedin.com/jobs/search/?currentJobId=3952217665) | New York, NY | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3952217665) | New Grad | 06/17/2024 |
+| [Amtec Inc.](https://amtecus.oorwin.com/careers/index.html#/job/4a4e765fa205b0cd26a971910afae129acef6c95) | New York, NY | ✅ [Quantitative Researcher](https://amtecus.oorwin.com/careers/index.html#/job/4a4e765fa205b0cd26a971910afae129acef6c95) | New Grad | 06/17/2024 |
+| [Fionics](https://recruiterflow.com/fionics/jobs/12) | New York, NY | ✅ [Junior Quant Researcher](https://recruiterflow.com/fionics/jobs/12) | New Grad | 06/17/2024 |
+| [valuai.io](https://www.linkedin.com/jobs/search/?currentJobId=3950408699) | United States (Remote) | ✅ [Quant Trading System - AI ML Engineer](https://www.linkedin.com/jobs/search/?currentJobId=3950408699) | New Grad | 06/16/2024 |
 | [PNM capital](https://www.linkedin.com/jobs/search/?currentJobId=3768707400) | US (Remote) | ✅ [Quantitative Traders](https://www.linkedin.com/jobs/search/?currentJobId=3768707400) | New Grad | 06/14/2024 |
 | [Injective Labs](https://jobs.lever.co/injectivelabs/de1ead03-e4cf-4ccd-bdb5-930a0d256be5/) | US (Remote) | ✅ [Quantitative Research Intern](https://jobs.lever.co/injectivelabs/de1ead03-e4cf-4ccd-bdb5-930a0d256be5/) | Internship | 06/14/2024 |
 | [Susquehanna International Group, LLP (SIG)](https://careers.sig.com/job/SUSQA004Y8451) | Greater Philadelphia | ✅ [Quantitative Researcher – Masters: 2025](https://careers.sig.com/job/SUSQA004Y8451) | New Grad | 06/14/2024 |
