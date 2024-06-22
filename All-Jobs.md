@@ -38,6 +38,10 @@ Checkout the [discord](https://discord.com/invite/9pWaQkS9qb)
 ---
 | Name              | Location     | Roles                | Employment | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | --------------------------- | 
+| [Magnetar](https://www.magnetar.com/careers/opportunities?gh_jid=7328327002) | Evanston, IL  | ✅ [Quantitative Analyst](https://www.magnetar.com/careers/opportunities?gh_jid=7328327002) | New Grad | 06/22/2024 |
+| [Capstone Investment Advisors](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7442974002) | London, TX  | ✅ [Jr. Solutions Quant](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7442974002) | New Grad | 06/22/2024 |
+| [Comity](https://jobs.ashbyhq.com/comity/438971c9-263d-41f0-ac01-2a8ad905a4a7/application) | Chicago, IL | ✅ [Quantitative Researcher (FTRs)](https://jobs.ashbyhq.com/comity/438971c9-263d-41f0-ac01-2a8ad905a4a7/application) | New Grad | 06/21/2024 |
+| [Millennium](https://mlp.eightfold.ai/careers/job/755934942751?domain=mlp.com) | New York, NY  | ✅ [Quantitative Research Associate ](https://mlp.eightfold.ai/careers/job/755934942751?domain=mlp.com) | New Grad | 06/21/2024 |
 | [East West Bank](https://www.linkedin.com/jobs/search/?currentJobId=3907451573) | Pasadena, CA  | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3907451573) | New Grad | 06/18/2024 |
 | [The Hagan-Ricci Group (HRG)](https://www.get.it/job/quantitative-researcher-in-north-castle-ny-at-the-hagan-ricci-group-518722490411779404) | Armonk, NY | ✅ [Quantitative Researcher](https://www.get.it/job/quantitative-researcher-in-north-castle-ny-at-the-hagan-ricci-group-518722490411779404) | New Grad | 06/18/2024 |
 | [GradBay](https://www.linkedin.com/jobs/search/?currentJobId=3953230468) | Boston, MA | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3953230468) | New Grad | 06/18/2024 |
